@@ -18,8 +18,7 @@
 
 ## Блок-схема.
 
-![Блок-схема](FinalTestBlocks.drawio.png)
-
+![Блок-схема](BlocksForTask.jpg)
 
 ## Текст программы.
 
